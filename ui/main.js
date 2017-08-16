@@ -1,6 +1,6 @@
-console.log('Loaded!');
+
 var counter=0;
-var button=document.getElementNyId('counter');
+var button=document.getElementById('counter');
 button.onClick=function(){
     //make a request to the counter endpoint
     
