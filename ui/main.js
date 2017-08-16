@@ -8,7 +8,7 @@ button.onclick=function(){
     
     
     //render the variable in the correct pan
-    counter=counter+1;
-    var span =document.getElementById('count');
-    span.innerHTML=counter.toString();
+    counter = counter + 1;
+    var span = document.getElementById('count');
+    span.innerHTML = counter.toString();
 };
